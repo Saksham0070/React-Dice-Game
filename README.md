@@ -1,6 +1,8 @@
 # Dice Game 🎲
 
-A fun and interactive dice game built with React, styled-components, and powered by Vite. Check it out live [here](https://dice-game0070.netlify.app/).
+A fun and interactive dice game built with React, styled-components, and powered by Vite. 
+
+Check it out Live Project:- [https://dice-game0070.netlify.app/](https://dice-game0070.netlify.app/).
 
 ## Project Overview
 
